@@ -303,8 +303,6 @@ Layer3-InterVLAN-DHCP-Lab/
     ├── topology.png
     ├── show-vlan-brief.png
     ├── show-interfaces-trunk.png
-    ├── show-ip-route.png
-    ├── show-ip-dhcp-binding.png
     ├── ping-success.png
     └── simulation-mode.png
 ```
